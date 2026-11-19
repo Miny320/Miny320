@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-<a href="https://github.com/Miny320?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-title-light.svg"><img src="assets/hero-title-light.svg" alt="Small name. Full stack. Miny, Senior Full Stack Developer. On GitHub since 2017, with 66 public repositories." width="470"></picture></a><a href="https://github.com/Miny320?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-stack-light.svg"><img src="assets/hero-stack-light.svg" alt="A stack of 6 layers: Web products, AI features, Commerce, Data and automation, Web3, Games." width="354"></picture></a>
+<a href="https://github.com/Miny320?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-title-light.svg"><img src="assets/hero-title-light.svg" alt="Small name. Full stack. Miny, Senior Full Stack Developer. On GitHub since 2017, with 67 public repositories." width="470"></picture></a><a href="https://github.com/Miny320?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-stack-light.svg"><img src="assets/hero-stack-light.svg" alt="A stack of 6 layers: Web products, AI features, Commerce, Data and automation, Web3, Games." width="354"></picture></a>
 </p>
 
 <p align="center">Hi, I'm Miny. I build products end to end. That means the interface, the logic behind it, the data, and the automation around it.</p>
@@ -36,7 +36,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/section-activity-light.svg"><img src="assets/section-activity-light.svg" alt="Lately" width="824"></picture></p>
 
 <p align="center">
-<a href="https://github.com/Miny320"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-weeks-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-weeks-light.svg"><img src="assets/activity-weeks-light.svg" alt="897 contributions in the last year, shown week by week." width="410"></picture></a>
+<a href="https://github.com/Miny320"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-weeks-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-weeks-light.svg"><img src="assets/activity-weeks-light.svg" alt="899 contributions in the last year, shown week by week." width="410"></picture></a>
 <a href="https://github.com/Miny320?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-repos-light.svg"><img src="assets/activity-repos-light.svg" alt="Most used languages: JavaScript, Python, TypeScript. Latest pushes: neve-private-sale, private-winter-sale, guardian-care, claw-machine-demo." width="410"></picture></a>
 </p>
 
