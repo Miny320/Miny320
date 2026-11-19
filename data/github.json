@@ -1,0 +1,334 @@
+{
+  "login": "Miny320",
+  "createdAt": "2017-05-21T21:27:13Z",
+  "publicRepos": 66,
+  "followers": 64,
+  "contributions": {
+    "total": 897,
+    "weeks": [
+      {
+        "start": "2025-11-16",
+        "count": 7
+      },
+      {
+        "start": "2025-11-23",
+        "count": 0
+      },
+      {
+        "start": "2025-11-30",
+        "count": 0
+      },
+      {
+        "start": "2025-12-07",
+        "count": 0
+      },
+      {
+        "start": "2025-12-14",
+        "count": 0
+      },
+      {
+        "start": "2025-12-21",
+        "count": 1
+      },
+      {
+        "start": "2025-12-28",
+        "count": 0
+      },
+      {
+        "start": "2026-01-04",
+        "count": 0
+      },
+      {
+        "start": "2026-01-11",
+        "count": 0
+      },
+      {
+        "start": "2026-01-18",
+        "count": 0
+      },
+      {
+        "start": "2026-01-25",
+        "count": 0
+      },
+      {
+        "start": "2026-02-01",
+        "count": 0
+      },
+      {
+        "start": "2026-02-08",
+        "count": 0
+      },
+      {
+        "start": "2026-02-15",
+        "count": 0
+      },
+      {
+        "start": "2026-02-22",
+        "count": 0
+      },
+      {
+        "start": "2026-03-01",
+        "count": 0
+      },
+      {
+        "start": "2026-03-08",
+        "count": 0
+      },
+      {
+        "start": "2026-03-15",
+        "count": 0
+      },
+      {
+        "start": "2026-03-22",
+        "count": 0
+      },
+      {
+        "start": "2026-03-29",
+        "count": 0
+      },
+      {
+        "start": "2026-04-05",
+        "count": 1
+      },
+      {
+        "start": "2026-04-12",
+        "count": 16
+      },
+      {
+        "start": "2026-04-19",
+        "count": 30
+      },
+      {
+        "start": "2026-04-26",
+        "count": 9
+      },
+      {
+        "start": "2026-05-03",
+        "count": 26
+      },
+      {
+        "start": "2026-05-10",
+        "count": 67
+      },
+      {
+        "start": "2026-05-17",
+        "count": 50
+      },
+      {
+        "start": "2026-05-24",
+        "count": 30
+      },
+      {
+        "start": "2026-05-31",
+        "count": 27
+      },
+      {
+        "start": "2026-06-07",
+        "count": 24
+      },
+      {
+        "start": "2026-06-14",
+        "count": 38
+      },
+      {
+        "start": "2026-06-21",
+        "count": 109
+      },
+      {
+        "start": "2026-06-28",
+        "count": 48
+      },
+      {
+        "start": "2026-07-05",
+        "count": 22
+      },
+      {
+        "start": "2026-07-12",
+        "count": 51
+      },
+      {
+        "start": "2026-07-19",
+        "count": 0
+      },
+      {
+        "start": "2026-07-26",
+        "count": 0
+      },
+      {
+        "start": "2026-08-02",
+        "count": 12
+      },
+      {
+        "start": "2026-08-09",
+        "count": 12
+      },
+      {
+        "start": "2026-08-16",
+        "count": 14
+      },
+      {
+        "start": "2026-08-23",
+        "count": 34
+      },
+      {
+        "start": "2026-08-30",
+        "count": 81
+      },
+      {
+        "start": "2026-09-06",
+        "count": 22
+      },
+      {
+        "start": "2026-09-13",
+        "count": 9
+      },
+      {
+        "start": "2026-09-20",
+        "count": 7
+      },
+      {
+        "start": "2026-09-27",
+        "count": 10
+      },
+      {
+        "start": "2026-10-04",
+        "count": 30
+      },
+      {
+        "start": "2026-10-11",
+        "count": 23
+      },
+      {
+        "start": "2026-10-18",
+        "count": 25
+      },
+      {
+        "start": "2026-10-25",
+        "count": 22
+      },
+      {
+        "start": "2026-11-01",
+        "count": 19
+      },
+      {
+        "start": "2026-11-08",
+        "count": 10
+      },
+      {
+        "start": "2026-11-15",
+        "count": 11
+      }
+    ]
+  },
+  "languages": [
+    {
+      "name": "JavaScript",
+      "repos": 17
+    },
+    {
+      "name": "Python",
+      "repos": 14
+    },
+    {
+      "name": "TypeScript",
+      "repos": 12
+    },
+    {
+      "name": "C#",
+      "repos": 8
+    },
+    {
+      "name": "HTML",
+      "repos": 3
+    },
+    {
+      "name": "Java",
+      "repos": 2
+    },
+    {
+      "name": "CSS",
+      "repos": 1
+    },
+    {
+      "name": "Dart",
+      "repos": 1
+    },
+    {
+      "name": "GDScript",
+      "repos": 1
+    },
+    {
+      "name": "Go",
+      "repos": 1
+    },
+    {
+      "name": "Jinja",
+      "repos": 1
+    },
+    {
+      "name": "Jupyter Notebook",
+      "repos": 1
+    },
+    {
+      "name": "Liquid",
+      "repos": 1
+    },
+    {
+      "name": "Objective-C",
+      "repos": 1
+    },
+    {
+      "name": "Solidity",
+      "repos": 1
+    }
+  ],
+  "countedRepos": 66,
+  "recent": [
+    {
+      "name": "neve-private-sale",
+      "language": "Liquid",
+      "pushedAt": "2026-11-11"
+    },
+    {
+      "name": "private-winter-sale",
+      "language": "CSS",
+      "pushedAt": "2026-11-11"
+    },
+    {
+      "name": "guardian-care",
+      "language": "TypeScript",
+      "pushedAt": "2026-11-09"
+    },
+    {
+      "name": "claw-machine-demo",
+      "language": "HTML",
+      "pushedAt": "2026-11-03"
+    },
+    {
+      "name": "guardian-care-website",
+      "language": "TypeScript",
+      "pushedAt": "2026-10-01"
+    },
+    {
+      "name": "Mystic-Mantle-Quest",
+      "language": "C#",
+      "pushedAt": "2026-09-02"
+    },
+    {
+      "name": "scraping-timelinewatches",
+      "language": "JavaScript",
+      "pushedAt": "2026-09-02"
+    },
+    {
+      "name": "scraping-the1916company",
+      "language": "JavaScript",
+      "pushedAt": "2026-09-02"
+    }
+  ],
+  "demos": {
+    "citeline": true,
+    "guardian-care": true,
+    "private-winter-sale": true,
+    "claw-machine-demo": false
+  }
+}

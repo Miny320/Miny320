@@ -1,0 +1,4 @@
+# Keep the same line endings on Windows and on the Linux machine that redraws the images.
+# Without this, the daily refresh would see every file as changed.
+* text=auto eol=lf
+*.svg text eol=lf
