@@ -36,7 +36,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/section-activity-light.svg"><img src="assets/section-activity-light.svg" alt="Lately" width="824"></picture></p>
 
 <p align="center">
-<a href="https://github.com/Miny320"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-weeks-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-weeks-light.svg"><img src="assets/activity-weeks-light.svg" alt="900 contributions in the last year, shown week by week." width="410"></picture></a>
+<a href="https://github.com/Miny320"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-weeks-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-weeks-light.svg"><img src="assets/activity-weeks-light.svg" alt="903 contributions in the last year, shown week by week." width="410"></picture></a>
 <a href="https://github.com/Miny320?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-repos-light.svg"><img src="assets/activity-repos-light.svg" alt="Most used languages: JavaScript, Python, TypeScript. Latest pushes: neve-private-sale, private-winter-sale, guardian-care, claw-machine-demo." width="410"></picture></a>
 </p>
 
